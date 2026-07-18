@@ -8,6 +8,3 @@ console.log('Hello', user);
  * You will get error:
  * Error:   4:7  error  'user' is assigned a value but never used  no-unused-vars
  */
-
-//Prettier Failure
-const user = { name: 'John', age: 25 };
