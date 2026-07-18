@@ -1,4 +1,4 @@
-name: Unit Tests
+name: App Quaqlity Check
 
 on: [pull_request]
 
